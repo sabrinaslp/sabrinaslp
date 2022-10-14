@@ -1,6 +1,6 @@
 ## Oi, eu sou a Sabrina! :blush::sparkles:
 
-- :sunflower: Tenho 21 anos e sou estudante do curso técnico em desenvolvimento de sistemas :sparkles:
+- :sunflower: Tenho 21 anos e atualmente estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas :sparkles:
 
 <div align="center">
   <a href="https://github.com/sabrinaslp">
