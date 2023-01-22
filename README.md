@@ -1,4 +1,4 @@
-## Oi, eu sou a Sabrina! :blush::sparkles:
+## Oi, eu sou a Sabrina! 
 
 - :sunflower: Tenho 21 anos e atualmente estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas :sparkles:
 
