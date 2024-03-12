@@ -1,6 +1,6 @@
 ## Oi, eu sou a Sabrina! 
 
-- :sunflower: Tenho 22 anos e atualmente estou cursando o ensino técnico e superior em Análise e Desenvolvimento de Sistemas :sparkles:
+- :sunflower: Tenho 22 anos e atualmente estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas :sparkles:
 - :sunflower: Atuo como Estagiária de Desenvolvimento de Software com foco na linguagem Java e framework Spring :sparkles:
 
 <div align="center">
