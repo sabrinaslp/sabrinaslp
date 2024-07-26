@@ -1,7 +1,7 @@
 ## Oi, eu sou a Sabrina! 
 
 - :sunflower: Tenho 23 anos e atualmente estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas :sparkles:
-- :sunflower: Atuo como Engenheira de Software e estou sempre em busca de aprimorar minhas habilidades no desenvolvimento backend :sparkles:
+- :sunflower: Atuo como Engenheira de Software e estou sempre em busca de aprimorar minhas habilidades :sparkles:
 
 <div align="center">
   <a href="https://github.com/sabrinaslp">
