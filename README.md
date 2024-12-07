@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaslp&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <p align="center">
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/sabrina-satriany/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabrina-satriany/" alt="LinkedIn"/></a>
   <img src="https://www.codewars.com/users/sabrinaslp/badges/micro"/>
 </p>
