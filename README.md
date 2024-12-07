@@ -12,7 +12,7 @@
 <p align="center">
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <img src="https://www.codewars.com/users/sabrinaslp/badges/small"/>
+  <img src="https://www.codewars.com/users/sabrinaslp/badges/micro"/>
 </p>
     
 ##
